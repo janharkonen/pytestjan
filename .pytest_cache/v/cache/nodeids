@@ -1,0 +1,4 @@
+[
+  "example.py::test_reverse_string",
+  "example.py::test_reverse_words"
+]
